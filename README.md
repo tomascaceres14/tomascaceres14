@@ -5,7 +5,6 @@ My journey in software development began over five years ago, and since then, I'
 
 I enjoy continuous learning and facing new challenges every day, reminding me that the learning never stops.
 
-* 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [tomialegriacaceres@gmail.com](mailto:tomialegriacaceres@gmail.com)
 
 

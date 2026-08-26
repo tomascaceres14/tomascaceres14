@@ -1,7 +1,8 @@
-Tomas | Golang Engineer
+Tomas | Backend Developer
 ==============================================================================================================================
 
-My journey in software development began over five years ago, and since then, I've dedicated myself to growing, developing, and progressing as a professional. I consider myself a meticulous developer, attentive to detail, who always prioritizes the robustness and security of applications to ensure their long-term stability.
+Backend Developer with +3 years of experience building software in Java and Go.
+
 
 I enjoy continuous learning and facing new challenges every day, reminding me that the learning never stops.
 

@@ -1,10 +1,7 @@
 Tomas | Backend Developer
 ==============================================================================================================================
 
-Backend Developer with +3 years of experience building software in Java and Go.
-
-
-I enjoy continuous learning and facing new challenges every day, reminding me that the learning never stops.
+Backend Developer with 3+ years of experience building backend solutions with Java and Golang. Specialized in REST APIs, microservices, and distributed systems, with experience working with financial market data, time-series data, and data processing pipelines. 
 
 * ✉️  You can contact me at [tomialegriacaceres@gmail.com](mailto:tomialegriacaceres@gmail.com)
 
